@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BinarySearch/BinarySearch.vcxproj" />
+  <Project Path="BubbleSort/BubbleSort.vcxproj" />
+  <Project Path="LinearSearch/LinearSearch.vcxproj" />
+</Solution>

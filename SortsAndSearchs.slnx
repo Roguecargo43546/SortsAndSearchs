@@ -6,4 +6,5 @@
   <Project Path="BinarySearch/BinarySearch.vcxproj" Id="e9a7de88-6158-4ed9-bb89-3d48b1aec5dc" />
   <Project Path="BubbleSort/BubbleSort.vcxproj" Id="4072e1b6-526a-4681-bddb-47f4efcdc9b6" />
   <Project Path="LinearSearch/LinearSearch.vcxproj" Id="dfbdd6c2-e868-47ae-aec4-24e0a26614b0" />
+  <Project Path="SentinelLinearSearch/SentinelLinearSearch.vcxproj" Id="aabbb947-778b-4a4c-a565-b889591fd5d8" />
 </Solution>
